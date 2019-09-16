@@ -1,0 +1,66 @@
+[03-Jun-2019 10:09:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/index.php on line 114
+[03-Jun-2019 10:09:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/index.php on line 114
+[03-Jun-2019 16:05:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 23
+[03-Jun-2019 16:05:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 23
+[03-Jun-2019 16:06:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 23
+[03-Jun-2019 16:06:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 23
+[04-Jun-2019 09:21:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 11
+[04-Jun-2019 09:21:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[04-Jun-2019 09:21:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 30
+[04-Jun-2019 10:29:58 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/lkmmtd/public_html/asik/pesantiket.php on line 71
+[04-Jun-2019 10:30:00 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/lkmmtd/public_html/asik/pesantiket.php on line 71
+[04-Jun-2019 10:30:03 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/lkmmtd/public_html/asik/pesantiket.php on line 71
+[04-Jun-2019 10:30:04 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/lkmmtd/public_html/asik/pesantiket.php on line 71
+[04-Jun-2019 10:40:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''</a>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 72
+[04-Jun-2019 10:40:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''</a>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 72
+[04-Jun-2019 10:40:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''</a>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 72
+[04-Jun-2019 11:41:39 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/lkmmtd/public_html/asik/pesantiket.php on line 70
+[04-Jun-2019 11:41:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 71
+[04-Jun-2019 11:42:26 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/lkmmtd/public_html/asik/pesantiket.php on line 70
+[04-Jun-2019 11:42:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 71
+[04-Jun-2019 14:48:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 104
+[04-Jun-2019 14:48:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 104
+[04-Jun-2019 14:49:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 104
+[04-Jun-2019 15:14:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/lkmmtd/public_html/asik/pesantiket.php on line 116
+[04-Jun-2019 15:15:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/lkmmtd/public_html/asik/pesantiket.php on line 116
+[04-Jun-2019 15:34:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 140
+[04-Jun-2019 15:34:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 140
+[04-Jun-2019 15:35:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/lkmmtd/public_html/asik/pesantiket.php on line 140
+[04-Jun-2019 23:59:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''<a style="' (T_ENCAPSED_AND_WHITESPACE) in /home/lkmmtd/public_html/asik/index.php on line 122
+[06-Jun-2019 05:35:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 11
+[06-Jun-2019 05:35:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 05:35:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 30
+[06-Jun-2019 05:35:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 132
+[06-Jun-2019 11:50:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' Tiket </td>' (T_ENCAPSED_AND_WHITESPACE) in /home/lkmmtd/public_html/asik/index.php on line 162
+[06-Jun-2019 13:10:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/index.php on line 244
+[06-Jun-2019 13:40:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''</td>' (T_ENCAPSED_AND_WHITESPACE) in /home/lkmmtd/public_html/asik/index.php on line 207
+[06-Jun-2019 15:01:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 217
+[06-Jun-2019 15:02:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 217
+[06-Jun-2019 16:37:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/lkmmtd/public_html/asik/index.php on line 339
+[06-Jun-2019 17:28:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 17:28:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 33
+[06-Jun-2019 17:28:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 40
+[06-Jun-2019 17:28:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 17:28:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 33
+[06-Jun-2019 17:28:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 40
+[06-Jun-2019 17:28:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 17:28:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 33
+[06-Jun-2019 17:28:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 40
+[06-Jun-2019 17:28:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 17:28:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 33
+[06-Jun-2019 17:28:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 40
+[06-Jun-2019 17:28:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 17:28:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 33
+[06-Jun-2019 17:28:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 40
+[06-Jun-2019 17:28:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 17:28:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 33
+[06-Jun-2019 17:28:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 40
+[06-Jun-2019 17:29:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 17:29:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 33
+[06-Jun-2019 17:29:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 40
+[06-Jun-2019 17:33:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 17:33:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 33
+[06-Jun-2019 17:33:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 40
+[06-Jun-2019 17:33:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 22
+[06-Jun-2019 17:33:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 33
+[06-Jun-2019 17:33:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lkmmtd/public_html/asik/pesantiket.php on line 40
